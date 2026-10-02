@@ -1,5 +1,5 @@
 ---
-title: "C5-2 - Consumer Panel Experience Assignmen"
+title: "IC5-2 - Consumer Panel Experience Assignmen"
 author: "Xueying Luo"
 date: today
 format:
@@ -123,5 +123,5 @@ I would also consider adding options such as **"Not sure," "Not applicable,"** o
 
 # Appendix
 
-- GitHub Repository
-- Published HTML on GitHub Pages
+- [GitHub Repository](https://github.com/Sheilaaa0312/IC5-2---Consumer-Panel-Experience-Assignment)
+- [Published HTML on GitHub Pages](https://sheilaaa0312.github.io/IC5-2---Consumer-Panel-Experience-Assignment/)
